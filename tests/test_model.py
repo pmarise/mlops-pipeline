@@ -1,4 +1,5 @@
 # tests/test_model.py
+export PYTHONPATH=$(pwd)
 from src.model import predict
 
 
